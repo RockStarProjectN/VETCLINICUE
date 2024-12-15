@@ -72,7 +72,7 @@
 bash
 Копировать код
 git clone https://github.com/RockStarProjectN/VETCLINICUE.git
-cd animal-management-app
+cd VETCLINICUE-app
 Запуск проекта:
 
 Открыть проект в Xcode.
