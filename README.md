@@ -71,7 +71,7 @@
 
 bash
 Копировать код
-git clone https://github.com/username/animal-management-app.git
+git clone https://github.com/RockStarProjectN/VETCLINICUE.git
 cd animal-management-app
 Запуск проекта:
 
